@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Ecommerce App**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **prabhashsahaj@gmail.com**
 

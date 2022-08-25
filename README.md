@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhashrai02" alt="prabhashrai02" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce App**
-
 - 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **prabhashsahaj@gmail.com**
